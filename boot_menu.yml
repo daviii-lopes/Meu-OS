@@ -1,5 +1,6 @@
 ublue_variants:
-  - label: ublue-os/startingpoint
+  - label: daviii-lopes/Meu-OS
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: startingpoint
+      - label: 
+        MeuOs
